@@ -1,3 +1,4 @@
+#This makes the initial CSV file for testing purposes
 import csv
 
 array = [["Assignment for: Mike", "Unit: Unit 20", "Due: 30/11/2018", "----------------"]]
